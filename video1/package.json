@@ -1,0 +1,22 @@
+{
+  "name": "illlli-video1",
+  "version": "1.0.0",
+  "description": "虹色轨迹博客动态视频1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhuangRenyang/video.git"
+  },
+  "keywords": [
+    "视频1"
+  ],
+  "author": "zhuangrenyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhuangRenyang/video/issues"
+  },
+  "homepage": "https://github.com/ZhuangRenyang/video#readme"
+}
