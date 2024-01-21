@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d16939ab-07b6-4f8f-8b66-10b0b1a90a18" name="Changes" comment="1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video1/Untitled1.gif" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +32,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/mywebss/myWeb/Fomalhaut",
+    "last_opened_file_path": "D:/mywebss/myWeb/video/video1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -53,7 +54,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705757637665</updated>
-      <workItem from="1705757639039" duration="3717000" />
+      <workItem from="1705757639039" duration="4398000" />
+      <workItem from="1705814627667" duration="5181000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1705761419177</created>
@@ -62,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705761419177</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <created>1705763793239</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705763793239</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
